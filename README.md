@@ -126,8 +126,9 @@ Cross-validation showed that accuracy and ROC-AUC were practically identical acr
 ### Finding
 
 The lead-time bands clearly communicate the increase in no-show risk at longer booking intervals, particularly the risk increase after 45 days.
-![DA](DA.png)
 ![DA1](DA1.png)
+
+![DA](DA.png)
 
 
 However, the bands did **not** provide meaningful additional predictive performance compared with raw booking lead days.
