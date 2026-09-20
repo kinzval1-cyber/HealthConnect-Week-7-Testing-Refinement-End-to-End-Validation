@@ -155,7 +155,7 @@ One wording refinement was made to the Week 6 analytical page.
 
 This change reflects the testing results and avoids presenting distance as a stronger predictive factor than the evidence supports.
 
-![week7](20%week7.png)
+![week7](week7.png)
 
 ---
 
